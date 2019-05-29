@@ -1,0 +1,11 @@
+{
+    "name": "better-laravel-vue-form",
+    "version": "1.0.1",
+    "description": "A form wrapper to vue js for laravel framework",
+    "main": "index.js",
+    "author": "Gabrie Bento Lisboa",
+    "license": "MIT",
+    "dependencies": {
+        "vue": "^2.6.10"
+    }
+}
