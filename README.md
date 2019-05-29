@@ -66,3 +66,7 @@ export default {
 }
 </script>
 ```
+
+## Credits
+
+Developed by DevSquad Team
